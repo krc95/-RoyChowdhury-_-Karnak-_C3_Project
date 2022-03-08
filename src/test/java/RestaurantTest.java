@@ -82,4 +82,28 @@ class RestaurantTest {
                 ()->restaurant.removeFromMenu("French fries"));
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    //<<<<<<<<<<<<<<<<<<<<<<<show total price>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    //get the list of the number
+    // if the selcted number greter than 0 than show the count
+    // count incresed decrsed as per selection
+    // updteshowing price
+
+    @Test
+   public void cheking_select_item_count_if_greterthan_0_show_total_price(){
+
+    }
+    @Test
+    public void cheking_price_is_varing_with_the_slection_number(){
+
+    }
+
+
+
+
+
+
+    //<<<<<<<<<<<<<<<<<<<<<<<show total price>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 }
